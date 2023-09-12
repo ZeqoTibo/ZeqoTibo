@@ -35,6 +35,7 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 ![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-PHPinformational?style=flat&logo=php&color=white)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
