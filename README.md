@@ -28,27 +28,24 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 
 ## 💼 Technical Skills
 
+![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=black)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=white)
-![]()
-![]()
 
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
 
