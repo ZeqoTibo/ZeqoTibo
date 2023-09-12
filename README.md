@@ -9,7 +9,7 @@ Je suis un Développeur Web Full-Stack 💻 !
 
 Ma passion pour le développement web a commencé durant mes années d'étude, plus précisement en STI2D, lorsque j'ai commencé à concevoir des sites en HTML/CSS/JS. Depuis, je n'ai cessé de progresser et d'élargir mes connaissances dans ce domaine.
 
-### 🤝 Connect with me:
+### 🤝 Comment me joindre ?
 
 <a href="https://www.linkedin.com/in/thibault-derouin-3b49481b8/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Thibault Derouin | LinkedIn" width="21px"/></a>
 </br>
