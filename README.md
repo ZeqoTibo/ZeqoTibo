@@ -12,24 +12,19 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/thibault-derouin-3b49481b8/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Thibault Derouin | LinkedIn" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 Si vous avez des questions, n'hesitez pas à me contacter !
 
-## 🔭 I'm currently working on
+## 🔭 Je travaille actuellement sur
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- Des projets perso
+- Des projets de mon auto-entreprise
 
-## 🌱 I'm currently learning
+## 🌱 J'apprends actuellement
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- VueJs
+- Mobile (React Native)
+
 
 ## 💼 Technical Skills
 
