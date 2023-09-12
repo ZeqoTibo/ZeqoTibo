@@ -30,13 +30,20 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Code-Vue.js-informational?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Code-Tailwind_CSS-informational?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Code-MongoDB--informational?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Code-connect-informational?style=for-the-badge&logo=symfony&logoColor=white)
+![]()
+![]()
 
 </br>
 
