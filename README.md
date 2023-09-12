@@ -60,5 +60,5 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 ## 📈 GitHub Stats 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=zeqotibo)](https://github.com/zeqotibo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeqotibo&layout=compact)](https://github.com/zeqotibo)
 
