@@ -40,6 +40,7 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&color=white)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=white)
+![](https://img.shields.io/badge/CMS-Wordpress-informational?style=flat&logo=wordpress&color=white)
 
 </br>
 
