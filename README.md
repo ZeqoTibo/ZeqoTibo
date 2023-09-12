@@ -26,7 +26,7 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 - Mobile (React Native)
 
 
-## 💼 Technical Skills
+## 💼 Compétences techniques
 
 ![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&color=black)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -53,16 +53,14 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeqoTibo)](https://github.com/ZeqoTibo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeqoTibo&layout=compact)](https://github.com/ZeqoTibo)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZeqoTibo.ZeqoTibo)](https://www.yushi.dev/)
 
