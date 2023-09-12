@@ -57,10 +57,7 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeqoTibo)](https://github.com/ZeqoTibo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeqoTibo&layout=compact)](https://github.com/ZeqoTibo)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ZeqoTibo.ZeqoTibo)](https://www.yushi.dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
