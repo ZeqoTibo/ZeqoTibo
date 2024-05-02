@@ -59,7 +59,6 @@ Ma passion pour le développement web a commencé durant mes années d'étude, p
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=zeqotibo)](https://github.com/zeqotibo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeqotibo&layout=compact)](https://github.com/zeqotibo)
 
