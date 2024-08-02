@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hello, je suis <a href="https://portfolio-zeqotibo.vercel.app" target="_blank" rel="noreferrer">Thibault</a> 👋
+Hello, je suis <a href="https://zeqodev.vercel.app/" target="_blank" rel="noreferrer">Thibault</a> 👋
 </h3>
 
 <h2 align="center">
